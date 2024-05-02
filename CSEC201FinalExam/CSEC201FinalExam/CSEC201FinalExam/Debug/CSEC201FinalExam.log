@@ -1,0 +1,5 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.c
+C:\Users\Rob\Desktop\GitLab\Course Content\csec-201\code\final\section2\CSEC201FinalExam\CSEC201FinalExam\Source.c(148,26): warning C4101: 'k': unreferenced local variable
+C:\Users\Rob\Desktop\GitLab\Course Content\csec-201\code\final\section2\CSEC201FinalExam\CSEC201FinalExam\Source.c(205): warning C4715: 'ConnectionHandler': not all control paths return a value
+  CSEC201FinalExam.vcxproj -> C:\Users\Rob\Desktop\GitLab\Course Content\csec-201\code\final\section2\CSEC201FinalExam\Debug\CSEC201FinalExam.exe
